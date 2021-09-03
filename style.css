@@ -1,6 +1,7 @@
 html, body {
     margin: 10;
     padding: 10;
+    font-family: 'Roboto', sans-serif;
 }
 
 .grid {
@@ -19,6 +20,10 @@ html, body {
 .square {
     width: 20px;
     height: 20px;
-    background-color: lightskyblue;
+   
     
+}
+
+.snake {
+    background-color: lightskyblue;
 }
