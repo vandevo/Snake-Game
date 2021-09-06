@@ -27,3 +27,7 @@ html, body {
 .snake {
     background-color: lightskyblue;
 }
+
+.apple {
+    background-color: darkblue;
+}
